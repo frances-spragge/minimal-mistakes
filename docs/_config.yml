@@ -10,7 +10,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Frances Spragge"
 title_separator          : "-"
 subtitle                 : # "A Jekyll theme"
@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : *Frances Spragge # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/"
+  avatar           : "/https://github.com/frances-spragge/frances-spragge.github.io/blob/master/docs/avatar.jpg"
   bio              : "DPhil student at University of Oxford"
   location         : "Oxford"
   links:
